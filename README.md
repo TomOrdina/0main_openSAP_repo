@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main repository for Git Web IDE demo Ordina test
+Main repository [openSAP](http://openSAP.com) for Git Web IDE demo Ordina test
